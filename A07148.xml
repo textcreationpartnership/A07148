@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Declaration da la reyne Mere du Roy tres-Crestien contenant les raisons de sa sortie des pais-bas, et le desaueu d'un manifeste qui cour soubs son nom, sur le mesme subject.</title>
+            <author>Marie de Médicis, Queen, consort of Henry IV, King of France, 1573-1642.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A07148</idno><idno type="EEBO-CITATION">99837252</idno>
+  <idno type="VID">1567</idno>
+  <idno type="EEBO-PROQUEST">2240904364</idno>
+  <idno type="STC">STC 17553</idno>
+  <idno type="STC">ESTC S101438</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99837252e"/>
+            <note>(EEBO-TCP ; phase 2, no. A07148)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1567)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 996:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Declaration da la reyne Mere du Roy tres-Crestien contenant les raisons de sa sortie des pais-bas, et le desaueu d'un manifeste qui cour soubs son nom, sur le mesme subject.</title>
+                  <author>Marie de Médicis, Queen, consort of Henry IV, King of France, 1573-1642.</author>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Par George Thomason, demeurant a la Rose an Cemitiere de Saint Paul,</publisher>
+                  <pubPlace>Imprime ̀a Londres :</pubPlace>
+                  <date>1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Mary de Médicis.</note>
+                  <note>Reproduction of original in the Yale University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  History --  Louis XIII, 1610-1643 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:1567:1"/>
+            <p>DECLARATION DE LA REYNE Mere du Roy tres-Crestien, Contenant les raisons de sa sortie des pais-bas, Et Le desaueu d'un Manifeste qui cour soubs son Nom, sur le mesme Subject.</p>
+            <p>Imprimé a <hi>Londres</hi> par GEORGE THOMASON, demeurant a la <hi>Rose</hi> an Cemitiere de Saint <hi>Paul</hi> 1638.</p>
+            <q>
+               <floatingText xml:lang="fre">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Avec permission.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:1567:2"/>
+            <pb n="1" facs="tcp:1567:2"/>
+            <head>Declaration de la Reyne Mere du Roy tres-Crestien, contenant les raisons de sa sortie des pais-bais, &amp; le desauen d'un Ma<g ref="char:EOLhyphen"/>nifeste qui cour soubs son Nom, sur le mesme Subject.</head>
+            <p>LEs personnes de ma qualité éstant esle<g ref="char:EOLhyphen"/>vées sur le theatre du monde, &amp; leur<g ref="char:EOLhyphen"/>vie continuellement exposée au regard public, lon a dit auec beaucoup de sens, que dau<g ref="char:EOLhyphen"/>tant plus grande est leur condition, dautant moin<g ref="char:EOLhyphen"/>dre est leur libertè: Car bien que leur conscience ne les oblige a respondre de leurs actions qu 'a Dieu, qui seul est Juge de leur debuoir, leur ho<g ref="char:EOLhyphen"/>neur les contrainct sounent de rendre compte, mesme de leurs secretes pensées, au commun des hommes qui est juge de leur reputation.</p>
+            <p>Si mon atriuée en flandre, qui monstroit quel<g ref="char:EOLhyphen"/>que chose d'estrange, a fair parler beaucoup toute la Crestienté, ma sortie de ce mesme lieu, qui a eu des circonstances &amp; des suites asses extraordinai<g ref="char:EOLhyphen"/>res, ne fait guere moings parler toute l'Europe.
+<pb n="2" facs="tcp:1567:3"/>Mais comme la mauuaise fortune â aussy peu de quoy recompenser les justes louanges, que la bonne en a trop pour payer les flateries: La misere de la mienne en lun &amp; en lautre temps, a fait qu'il s'est trouué plus de langues &amp; de plumes interes<g ref="char:EOLhyphen"/>sées pour me blasmer, que de charitables pour me deffendre.</p>
+            <p>Aussy i' apprens maintenant de toutes parts qu'on essaye par divers moyens de descrier le des<g ref="char:EOLhyphen"/>seing &amp; la forme de ma retraitte des pais-bas, soit par lettres qui s'escriuent en diuers lieus, soit par memoires relations &amp; gazettes, qui senuoient &amp; se debitent, soit par manifestes qui courent dans le monde, mesme soubz mon nom, l'un desquelz est paruenu imprimé jusques a moy, qui est vne piece laquelle semble auoir pour fin ma justification, mais qui ne tend qu 'a me nuire, &amp; a me brouiller en effect de tous costés. Bref je descouure qu 'on n'obmet rien d'imaginable pour donner des in<g ref="char:EOLhyphen"/>terpretations sinistres a cette retraite.</p>
+            <p>Or comme i'ay subject de craindre que tant d'artifices ne preuallent contre la sincerité de mes intentions, &amp; la verité de ma conduitte: specialle<g ref="char:EOLhyphen"/>ment que ce pretendu manifeste qui passe pour mien, n'ait encores desormais plus de force en
+<pb n="3" facs="tcp:1567:3"/>cette qualité, apres auoir esté veu publicquement en mes mains, ce qui luy seruiroit d'appro<g ref="char:EOLhyphen"/>bation tacite si je le dissimulois. Ja'y creu debuoir a ma reput<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, &amp; a mes vrais interests, vne decla<g ref="char:EOLhyphen"/>ration publicque contenant le desadueu de cette piece, &amp; d'autres semblables, s'il s'en trouue aul<g ref="char:EOLhyphen"/>cunes: ensemble les principaux motifs qui m'ont portée a me retirer des pais-bas, les rencontres qui mont faict passer en Angleterre, et la resoluti<g ref="char:EOLhyphen"/>on en laquelle je suis auiourdhuy, affin qu'on nait plus lieu d'en parler diversement, ou a mon desa<g ref="char:EOLhyphen"/>vantage.</p>
+            <p>Je desire qu'n chacun scache, que lors que je me suis refugiée dans la Flandre, j'ay regardé ce lieu la comme vn port voifin, ou je suis accourue pour fuir la tempeste qui m'agittoit, mais non pas com<g ref="char:EOLhyphen"/>me vn pais que j'eusse voullu choisir pour y de<g ref="char:EOLhyphen"/>meurer, ou pour y prendre quelque establissement: J'estois attachée a la France par des lieus trop puiffants pour auoir eu de telles pensées.</p>
+            <p>Je veux bien aufly qu'on scache qu'en tout le temps que j'ay sejourné dans les pais-bas, soit pendant la pais, soit apres la rupture suruenue en<g ref="char:EOLhyphen"/>tre les deus coronnes, mes principaus soings &amp; mes meilleurs souhaits, ont tousiours eu pour object
+<pb n="4" facs="tcp:1567:4"/>ma reconciliation auec le Roy, Monsieur mon filz, que je ne me suis jamais cachée de ce desir, mesme que le Roy Catholicque, Monsieur mon beaufilz, m'a tousiours tesmoigné qu'il l'estimoit iuste &amp; louable.</p>
+            <p>Jl est vray qu'ayant trauaillé pour mon accōmo<g ref="char:EOLhyphen"/>dement l'espace de sept années sans aucun fruict, &amp; descouurant par l'aduis des plus sages non pas<g ref="char:EOLhyphen"/>sionés ny interessés, par le bon raisonnement, &amp; par l'experience mesme, qu'il s'eslognoit plustost qu'il ne s'aduançoit apre<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tant de soings em<g ref="char:EOLhyphen"/>ployez a le rechercher: que le lieu ou je demeurois sembloit m'estre vn perpetuel obstacle a toutes les aduenues qui m'y pouuoyent conduire, tant a cause de la rupture qui continuoit, que par d'au<g ref="char:EOLhyphen"/>tres fortes considerations. Je recognus en fin qu'il m'estoit expedient de viure aumoings quelque temps en vn lieu non suspect, et comme la saison se trouua propre a boire des eaues de Spa, lors que j'entrois en ces deliberations, je me resollus d'al<g ref="char:EOLhyphen"/>ler faire quelque sejour dans les terres des Lie<g ref="char:EOLhyphen"/>geois, quisont neutres, esperāt par ce moyen pren<g ref="char:EOLhyphen"/>dre vn bon remede pour ma santé, &amp; pareillement vn bon poste pour aduancer ma reconciliation.</p>
+            <p>Voila quel fut mon project sans rien determi<g ref="char:EOLhyphen"/>ner
+<pb n="5" facs="tcp:1567:4"/>sur le subject de mon retour en Flandres: Et a n'en mentir point cette incertitude ou j'estois m'empescha de communicquer les particularitez de ce desseing a mon Nepueu le Cardinal Infant, joinct les occupations de la campagne qui le te<g ref="char:EOLhyphen"/>noient esloigné de moy sur le point de mon parte<g ref="char:EOLhyphen"/>ment, en sorte qu'elles ne me permirent pas de luy dire adieu moymesme.</p>
+            <p>Je m'acheminay donc en partant de Bruxelles pour aller droict a Liege, ou j'estois attendue avec expectation, comme je fus receue auec applaudis<g ref="char:EOLhyphen"/>sement dans les Villes de sa dependance: enquoy j'ay subject de scauoir beaucoup de gré aux Magi<g ref="char:EOLhyphen"/>strats du pais des ordres qu'ilz auoient dōnés pour ma reception par tout ou je debuois m'arrester. Neantmoings ayant depesché en Hollande &amp; en dautres endroits, affin de pourueoir a ma seuretè pendant le sejour que j'auois a faire dans les terres de Liege: outre qu'il se rencontra quantité de difficultés pour y asseurer ma demeure, il s'en descouurit encore vn plus grand nombre qui en pourroient empescher ma sortie, s'il arriuoit que je fusse necessitée d'aller ailleurs. De maniere que preuoyant tous ces accidens par les aduis qui ve<g ref="char:EOLhyphen"/>noient de ceux que j'auois enuoyéz, en recognois<g ref="char:EOLhyphen"/>sant
+<pb n="6" facs="tcp:1567:5"/>vne partie sur les lieux, &amp; trouuant le passage libre par la Hollande: j'estimay qu'il ny auoit point de temps a perdre pour chercher vne as<g ref="char:EOLhyphen"/>siette seure &amp; tranquille, qui m'estoit la chose la plus importante a lors, veu lestat flottant ou je me rencontrois. Ainsy pour ne la pas commettre au hazard &amp; a des euenemens si doubteux, je pris ce parti sur le champ de passer en Angleterre, comme le plus affuré.</p>
+            <p>Mais auant que de continuer ce discours, je ne scaurois obmettre le succes dont il a pleu a Dieu fauouriser mon voyage, qui, est tel, qu'il a sur<g ref="char:EOLhyphen"/>passé veritablament ce que j'eusse pû souhaitter. Mon Cousin le Prince d'Orange qui vint au de<g ref="char:EOLhyphen"/>uant de moy jusques a l'entrée du pais, me receut en l'equipage ou i'estois, (qui me pouuoit rendre mescognoissable,) de me sme qui si mon adversité m'cut seruy de lustre, &amp; que j'eusse esté en aussy grand esclat qu'on mayt veue dans ma plus haute prosperité. Pour ce qui est des Estats ilz m'ont traictée non seullement comme vne Princesse de ma condition qui demandoit passage; mais comme ilz eussent pû faire vn Roy triomphant qui le<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fut allé visiter pour leur donner part des ses vi<g ref="char:EOLhyphen"/>ctoires. Et pour le regard de ma Cousine la Prin<g ref="char:EOLhyphen"/>cesse
+<pb n="7" facs="tcp:1567:5"/>d'Orange, qui m'a tousiours accompagnée par toute la Hollande, elle a vescu si respectueuse<g ref="char:EOLhyphen"/>ment, &amp; si obligeament aucc moy, faict si agre<g ref="char:EOLhyphen"/>ablement l'honneur du pais &amp; de ses maisons ou elle m'a logée, que j'eusse pû m'imaginer estre dans les miennes, n'eut esté que ma mauuaise for<g ref="char:EOLhyphen"/>tune m'auoit trop accoustumée a scavoir qu'elles n'estoient plus en ma possession. Quant a l'accueil que m'a faict le Roy de la grand Bretaigne Mon<g ref="char:EOLhyphen"/>sieur mon beaufilz, tout ce que i'en pourrois dire seroit bien au dessoubs de ce que chacun a veu, &amp; de ce que j'ay recognu moy mesme. Par sa magni<g ref="char:EOLhyphen"/>ficence extraordinare a mon entrée dans Londres, Il a publié l'estime qu'il faisoit de ma personne: par sa resiouissance qui paroissoit sur son visage, &amp; sur celluy de tous ses subjects; il a monstré com<g ref="char:EOLhyphen"/>bien ma presence luy estoit chere. Mais sur tout j'aduoue que la veritable amitié que j'ay leue dans son coeur, la franchise de son procedé, &amp; les ten<g ref="char:EOLhyphen"/>dres affections en mon endroict de la Reyne Ma<g ref="char:EOLhyphen"/>dame ma fille, qui ont a la verité peu d'exemples, m'ont tellement soullagée de mes afflictions pres<g ref="char:EOLhyphen"/>santes, que je ne scay comment j'aurois pû l'estre dauantage quant Dieu m'eut enuoyé du ciel vn Ange pour me consoller. De sorte que je n'eusse
+<pb n="8" facs="tcp:1567:6"/>eu dans tout mon voyage, que des matieres de joye, si les mesmes choses qu'on preparoit pour me plaire, ne m'eussent esté parcillement des subjects de triste meditation: en ce qu'elles me faisoient penfer que le feu Roy Monfeigneur pa<g ref="char:EOLhyphen"/>roissoit bien encore viuant en ma personne dans les pais estrangers, mais qu'en effect sa memoire mesme sembloit morte pour moy dans son Roy<g ref="char:EOLhyphen"/>aume.</p>
+            <p>Maintenant pour reprendre la suitte de mon di<g ref="char:EOLhyphen"/>scours ou je l'ay quittée. Jay a dire que je ne pense pas ayant desduict naisuement ce qui s'est passé en ma retraicte de Flandre, qu'on me puiffe imputer d'avoir negligé ma reputation pour auoir verllé au bien de mes affaires, ny qu'il soit mal ay<g ref="char:EOLhyphen"/>sé de persuader a ceux qui en jugeront faine<g ref="char:EOLhyphen"/>ment, que je n'ay rien faict en cette retraicte, en ses circonstances &amp; ses suites, non plus qu'en tout le temps que j'ay fejourné dans les pais-bas, qui soit contre les loix de la gratitude: j'adiouste que je n'cuffe mesme rien faict contre la bienscance quant au fortis des terres d'Espagne je fusse de<g ref="char:EOLhyphen"/>meurée dans la Hollande, qui luy est ennemie, pour ce que je n'cusse pas en cette occasion cher<g ref="char:EOLhyphen"/>ché la Hollande comme ennemie d'Espagne, mais
+<pb n="9" facs="tcp:1567:6"/>comme amye &amp; confederée de France. Et cette quallité de la Hollande qui m'estoit pour lors ad<g ref="char:EOLhyphen"/>vantageufe, n'estoir point nuisible a l'Espagne, en ce qu'olle me profitoit: desorte que demeurant en Hollande, je n'eusse apporté nul prejudice a l'E<g ref="char:EOLhyphen"/>spagne, en me bien faisant.</p>
+            <p>Et quant aux bruits qu'on a faict courir, que j'allois en Hollande pour deseruir Espagne, &amp; que des miens par mon ordre auoient baillé le plan de plufieurs places des pais-bas a Mon Cousin le Prince d'Orange, ce bruit la est fi ridicule qu'il ne merite qu'ne responce de raillerie. Certes j'au<g ref="char:EOLhyphen"/>rois eu bonne grace de faire veoir par c'et exemple a mon Coufin le Prince d'Orange, qui me rece<g ref="char:EOLhyphen"/>voit si humainement, comme je traictois bien mes hostes quant je n'estois plus ches cux: et dailleurs en luy donnant bonne impression de ma probité, je luy cusse faict cognoistre que je l'avois encore meilleure de sa preuoyance, la jugeant telle qu'il n'auoit pas soing de se pouruoir du plan de toutes les places des pais-bas; vraiement cella cust passé pour vn beau compliment a mon arriuée.</p>
+            <p>Aussy ce bruit la est il dautant digne de risée, q'un autre tout contraire qu'on a voullu gliffer est faux, &amp; d'une inuention malicicuse, que j'estois
+<pb n="10" facs="tcp:1567:7"/>passée en Hollande pour traicter la trefue, ou bien pour faire des praticques contre les pais <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, &amp; contre mon Cousin le Prince d'Orange soubz le pretexte d'hospitalité.</p>
+            <p>Mais le temps ayant faict veoir, mesme aux plus simples, que ces bruits n'ont rien de vray, comme la raison a tousiours faict comprendre aux sages qu'ilz n'auoient point de vrai-semblance: je me veux arrester a ce qui est de plus grand pois, &amp; pour toute justification de mes desseings &amp; de ma conduicte, declarer ingenuement qu'els ont esté les mouuemens de ma volonté, au regard de France &amp; d'Espagne pendant que j'ay seiourné dans les pais-bas, &amp; pourquoy je m'en suis retirée.</p>
+            <p>J'ay gardé ce temperament en tout le temps que j'ay passé dans la Flandre, que mes affections aussy bien-que mes deportemens, ont tousiours esté neutres pour ce qui a regardé les affaires public<g ref="char:EOLhyphen"/>ques entre la France &amp; l'Espagne. Les assistances que je receuois d'Espagne d'une part, &amp; de lautre les attachemens que j'auois a la France, m'obli<g ref="char:EOLhyphen"/>geoient d'en vser ainsy. Et a parler nettement, j'eusse creu faire autant contre la justice, tandis que j'ay demeuré dans les terres d'Espagne, &amp; vescu a ses despens, de prendre le parti de France
+<pb n="11" facs="tcp:1567:7"/>au prejudice d'Espagne, qu'il cut estè contre mon inclination de prendre celluy d'Espagne, au pre<g ref="char:EOLhyphen"/>judicede France. Et quoy que ce pretendu Mani<g ref="char:EOLhyphen"/>feste en exagerant les plaintes qu'il faict d'Espag<g ref="char:EOLhyphen"/>ne soubz mon nom, ait coullé artificieusement, que j'ay beaucoup affectionné le bien de ses affaires, ce qui est vn venin couuert pour me nuire du costé de France. La verité est qu'Espagne ne m'a pas d'autre obligation pour ce point la, que d'auoir tousiours souhaitté passionnement l'union &amp; la concorde entre les deux coronnes, dont j'auois autrefois jetté les fondemens par vne double alli<g ref="char:EOLhyphen"/>ance entre Elles: et d'auoir desiré grandement apres la rupture, de contribuer tout ce qui eut de<g ref="char:EOLhyphen"/>pendu de moy, pour le restablissement de la paix.</p>
+            <p>A Dieu ne plaise que j'eusse voullu payer les nouuelles obligations que j'auois a l'Espagne, aux despens des antiennes que j'ay contractées auec la France par le lien de mon mariage. C'est a elle a qui j'ay voué mes premieres affections: C'est elle qui les conseruera perpetuellement auec les cen<g ref="char:EOLhyphen"/>dres du feu Roy Monseigneur.</p>
+            <p>Mais a Dieu ne plaise aussy, que pour quelque ad<g ref="char:EOLhyphen"/>uantage qui m'en peut venir du costé de France, il me tōbast en la pensée de desaduouer les obligati<g ref="char:EOLhyphen"/>ons
+<pb n="12" facs="tcp:1567:8"/>que j'aya l'Espagne. Je scay trop que le dernier degré de l'ingratitude, c'est de nier les bienfaicts, taut s'en faut je les publieray tousiours hautement par tout. Et je confesse qu'il me deplaist asses de n'auoir point d'autre moyen pour m'en acquitter qu'en me louant en toutes occasions, comme je say en cellecy, de la subsistance que m'a donnée le Roy Catholicque Monsieur mon beaufilz pen<g ref="char:EOLhyphen"/>dant sept années, &amp; des preuues d'amour cordial que j'ay receues de la Reyne Madame ma fille: des soings qu'a eu de ma personne feu ma soeur l'In<g ref="char:EOLhyphen"/>fante, qui ne m'a dailleurs pas moings edifiée par sa vertu, qu'elle m'a consollée par ses bons offices, de la courtoisie &amp; bonne volonté en mon endroit de mon Nepueu le Cardinal Infant: qui sont des effects que je refere aussy principallement au Roy Catholicque Monsieur mon beaufilz, a l'intention duquel mon Nepueu &amp; ma deffuncte soeur l'Infan<g ref="char:EOLhyphen"/>te, n'ont faict que joindre leurs naturelles dispo<g ref="char:EOLhyphen"/>sitions.</p>
+            <p>Apres cella je suis bien esloignèe de vouloir affoiblir ces tesmoignages publics que je desire confirmer en tous lieux, par quelques plaintes con<g ref="char:EOLhyphen"/>tre aucuns de ses Ministres. Et c'est en quoy je suis encor notablement offencée par les autheurs
+<pb n="13" facs="tcp:1567:8"/>de ce pretendu Manifeste, d'en auoir exposé de fauses a la veue du monde soubz mon nom: Au contraire il m'importe qu'on scache, comme il est vray, que quant il y auroit eu des manquemens en mon endroit par la faulte de quelques vns des Mi<g ref="char:EOLhyphen"/>nistres qui sont en Flandres, ce qui eut esté contre les ordres du Roy Catholicque Monsieur mon beaufilz: le bon traictement que je receuois du Maistre, cust couuert a mon esgart l'inobseruation des seruiteurs: Et bien qu'il ne m'en eust pas osté le sentiment, la discretion m'auroit apris a le taire.</p>
+            <p>Il ne sera jamais dit aussy, que ce qui partira de moy contienne rien de semblable: Mais bien l'en<g ref="char:EOLhyphen"/>tiere satisfaction que j'ay du Roy Catholicque Monseur mon beaufilz. Et j'ay depesché expres en partant de la Haye vers mon Nepueule Car<g ref="char:EOLhyphen"/>dinal Infant, pour luy temoigner ces sentimens de ma recognoissance, &amp; pour luy faire entendre a quelle intention je suis sortie des pays-bas; qui est la mesme ou je persiste aujourdhuy, &amp; que je veux clairement exprimer pour conclure cette decla<g ref="char:EOLhyphen"/>ration.</p>
+            <p>Mon object n'a esté &amp; n'est autre en tout ce pro<g ref="char:EOLhyphen"/>cedé, que ma reconciliation anec le Roy Mon<g ref="char:EOLhyphen"/>sieur mon filz. Pour cette fin les moyens qui sem<g ref="char:EOLhyphen"/>bleroient
+<pb n="14" facs="tcp:1567:9"/>difficiles &amp; fascheux aux personnes de ma condition, me seront doux &amp; faciles. Je ne compte pas entre ces moyens penibles d'affecti<g ref="char:EOLhyphen"/>oner ceux qu'il honnore de sa principalle confi<g ref="char:EOLhyphen"/>ance: Je le feray sans contraincte, &amp; de bon coeur, quoy qu'ilz ne m'en donnassent point subject: Et suis resollue de ne rien obmettre (non pas mesme ce que je scaurois employer en vain) pour posse<g ref="char:EOLhyphen"/>der l'amitié du Roy Monsieur mon filz.</p>
+            <p>C'est vn bien a la verité pretieux pour moy: Mais qui m'appartient a tant de justes tiltres, qu'on ne me blasmera non plus de le pretendre, qu'on ne me pourroit accuser sans me faire tort d'auoir en consequence le moindre souhait de participer a l'authorité du gouuernement. Je ne me pardonne<g ref="char:EOLhyphen"/>rois pas a moy mesme, si j'auois eu vne tentation de cette nature, &amp; si je ne tenois cette auctorité la autant inutille pour ma felicité particuliere, que j'estime l'amitié du Roy Monsieur mon filz, neces<g ref="char:EOLhyphen"/>saire pour mon contentement parfaict.</p>
+            <p>Il sera bien aisé de croire que je suis dans ce sentiment, si lon veult en cella juger du present par l'exemple du passé, &amp; pour cet effet jetter les yeux sur mon administration pendant ma Re<g ref="char:EOLhyphen"/>gence: examiner en quoy je m'en suis preualue;
+<pb n="15" facs="tcp:1567:9"/>&amp; de quel esprit j'ay gouuerné. Quant par mon malheur &amp; célluy de la France, perdant le feu Roy Monseigneur, je fus engagée a donner mes soings &amp; mes veilles, pour soustenir les affaires pu<g ref="char:EOLhyphen"/>blicques qui estoint en eminent peril: deslors que le voeu commun des ordres du Royaume eut commis a ma conduitte la fortune de tout l'estat, je pense auoir oublié tellement la mienne, que la mesdisance, &amp; mes ennemis ensemble, n'ont ja<g ref="char:EOLhyphen"/>mais songé de mettre en auant que je me sois quelquefois considerée pour tirer aduantage de mon auctorité: Ny que l'ambition ou l'interest, ait eu voix en quelque occasion dans mes conseils particuliers. On ne mettra pas en doubte le pre<g ref="char:EOLhyphen"/>mier puis qu'il est constant que je n'ay voullu chercher autre gloire pour moy dans ma Regence, que de laisser a la fin le Royaume aussy tranquille &amp; florissant soubz la conduitte d'une femme, non<g ref="char:EOLhyphen"/>obstant les troubles qui estoient suruenuz, q'un des plus grands Roys du monde l'auoit veu en mourant, apres douze années d'une profonde paix. Et quant a l'interest j'ose bien dire, sans blesser la modestie (ce qu'il semble que la France auroit peine a nier sans ingratitude) que j'ay administré de sorte le bien du Roy Monsieur mon filz, que pour
+<pb n="16" facs="tcp:1567:10"/>le conseruer je l'ay regardé comme le mien pro<g ref="char:EOLhyphen"/>pre: Mais que pour en vser, je l'ay consideré com<g ref="char:EOLhyphen"/>me le bien d'autruy. Tellement qu'a la fin de tous mes trauaux, il ne m'est demeuré que la qualité de Mere; laquelle Dieu mesme ne me pourroit oster.</p>
+            <p>Ces actions dont les monumens publics seront a jamais tesmoings, sont les seuls trophées que j'ay faict dresser a ma memoire; Ces actions disie, sont les sculles citadelles, dont je me suis pourueue, &amp; que i'ay basties dans le coeur du Roy Monsieur mon filz, dans celluy des François, &amp; dans ma propre conscience. Mais certes pour ne me point tromper, c'est sur ce dernier fort que i'establis mes principalles esperances, &amp; en tous euene<g ref="char:EOLhyphen"/>mens ma plus solide satisfaction. Apres tout quant il arriueroit par des raisons secretes de la prouidence de Dieu, que le reste de mes iours se passast dans les disgraces, quant ie n'aurois point auant que mourir la consolation de reueoir le Roy Monsieur mon filz, ie ne laisseray pas de luy donner absente, comme ie fay, des benedicti<g ref="char:EOLhyphen"/>ons continuelles. Et ie veux en ce cas finir ma vie, comme ie finis cette presente declaration. Priant Dieu que ces miennes benedictions, soient
+<pb n="17" facs="tcp:1567:10"/>aussy efficaces pour luy, que si l'auois tousiours esté bien fauorablement traictée.</p>
+            <closer>
+               <signed>signé, MARIE.</signed> Et au dessoubs est escript.
+</closer>
+            <postscript>
+               <p>Cette declaration a esté leue publicquement de<g ref="char:EOLhyphen"/>uant toute la Cour de la Reyne en presence de sa Maiesté. Apres auoir esté signée de sa main, Et par son commandement, l'original en est demeuré es mains du sieur Vicomte de Fabro<g ref="char:EOLhyphen"/>ni.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
